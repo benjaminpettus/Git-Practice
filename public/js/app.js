@@ -1,3 +1,3 @@
-console.log("Sanity Check");
+console.log("Hello Github");
 
 
